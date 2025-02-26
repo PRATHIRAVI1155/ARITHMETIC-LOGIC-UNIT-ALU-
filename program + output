@@ -1,1 +1,8 @@
 https://colab.research.google.com/drive/1ogrmAIRfe2_jEPQLGe11LqhcAsjLTHiu?usp=sharing
+
+output :
+A=0101, B=0011, ALU_Sel=000, Result=1000
+A=0101, B=0011, ALU_Sel=001, Result=0010
+A=0101, B=0011, ALU_Sel=010, Result=0001
+A=0101, B=0011, ALU_Sel=011, Result=0111
+A=0101, B=0011, ALU_Sel=100, Result=1010
